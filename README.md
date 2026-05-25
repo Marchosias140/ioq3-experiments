@@ -1,3 +1,13 @@
+
+Experimental fork just to make tests, no actual changes to ioquake3 itself.
+
+Tests so far:
+
+- Dockerfile that allows for compilation of the project inside a container, with all the Cmake flags added as comments.
+
+
+
+
 ![Build](https://github.com/ioquake/ioq3/workflows/Build/badge.svg)
 
                    ,---------------------------------------.
